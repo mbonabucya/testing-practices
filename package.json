@@ -1,0 +1,23 @@
+{
+  "name": "testing-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbonabucya/testing-practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbonabucya/testing-practices/issues"
+  },
+  "homepage": "https://github.com/mbonabucya/testing-practices#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
